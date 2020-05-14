@@ -1,5 +1,5 @@
 # TTSBOX-Text-to-Speech-Conversion
-Using the MATLAB toolbox for effective text to speech conversion
+Using the MATLAB toolbox for TTS Conversion by Hidden Markov Models based Unit Selection and Concatenative Synthesis.
 
 All rights to the toolbox go to:
 
