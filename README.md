@@ -9,6 +9,7 @@ All rights to the toolbox go to:
 
 1. Put together the various features in the toolbox to implement text to speech conversion
 2. Run tts_run.m to run our code
+3. Brief Summary of our work can be read in the summary.pdf
 
 ![](Images/time-HMM.jpg)
 
